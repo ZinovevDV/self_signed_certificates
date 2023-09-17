@@ -1,0 +1,7 @@
+server:
+  http2:
+    enabled: true
+  ssl:
+    key-store: classpath:crt/keystore.p12
+    key-store-password: Lvbnhbq
+    key-alias: localhost
